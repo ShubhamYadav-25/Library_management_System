@@ -1,0 +1,31 @@
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 0;  
+    padding: 20px;  
+    background-color: #f9f9f9;  
+}  
+.welcome {  
+    background-color: white;  
+    padding: 20px;  
+    border-radius: 5px;  
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
+    margin-bottom: 20px;  
+    text-align: center; /* Center the text within the welcome section */  
+}  
+.book-services {  
+    background-color: white;  
+    padding: 20px;  
+    border-radius: 5px;  
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  
+    margin-bottom: 20px;  
+}  
+.book-services h2 {  
+    margin-top: 0;  
+}  
+ul {  
+    list-style-type: none; /* Remove default bullet points */  
+    padding: 0; /* Remove default padding */  
+}  
+li {  
+    margin: 5px 0; /* Add spacing between items */  
+}
